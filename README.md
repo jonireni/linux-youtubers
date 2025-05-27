@@ -124,7 +124,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier F
 
-### [Craig Titus Tech](https://www.youtube.com/@ChrisTitusTech) (680,000 subscribers)
+### [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech) (680,000 subscribers)
 
 > Started out as a Windows / virtualization channel, but he soon realized no one is interested in the former, and that there are better channels out there in regards to the latter. Seeing the popularity of Linux channels, he quickly re-branded himself as a Linux-focused channel. When not recording, he is still a full-time Windows user.
 
