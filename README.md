@@ -8,7 +8,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier A
 
-### Learn Linux TV (890,000 subscribers)
+### [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) TV (890,000 subscribers)
 
 > The best Linux educational channel on YouTube and no one else comes close.
 
@@ -19,7 +19,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 - Some of his more recent distribution reviews don't add a lot to the space, but this criticism can be levied against many Linux YouTubers.
 
-### The Linux Experiment (286,000 subscribers)
+### [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP) (286,000 subscribers)
 
 > A great channel that provides news recaps as well as other valuable information for beginner and intermediate users.
 
@@ -30,7 +30,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier B
 
-### Veronica Explains (135,000 subscribers)
+### [Veronica Explains](https://www.youtube.com/@VeronicaExplains) (135,000 subscribers)
 
 > One of the few women in the Linux YouTuber space. Her knowledge and friendly, outgoing personality, has been a boon to her channel growth.
 
@@ -42,7 +42,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 - Does not upload on a regular schedule.
 - Quirky personality may turn off some viewers.
 
-### InfinitelyGalactic (89,500 subscribers)
+### [InfinitelyGalactic](https://www.youtube.com/@InfinitelyGalactic) (89,500 subscribers)
 
 + In-depth distribution reviews and comparisons that are better than anyone else on the platform. 
 + Videos with helpful Linux tips, tweaks, and other ways to improve your desktop experience.
@@ -53,7 +53,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier C
 
-### Mental Outlaw (719,000 subscribers)
+### [Mental Outlaw](https://www.youtube.com/@MentalOutlaw) (719,000 subscribers)
 
 > Although he started out as Luke Smith clone, he has evolved over the years to find his own niche.
 
@@ -66,7 +66,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 - Uses meme thumbnails to attract younger viewers.
 - Cryptobro.
 
-### Distrotube (261,000 subscribers)
+### [Distrotube](https://www.youtube.com/@DistroTube) (261,000 subscribers)
 
 > A channel catering more to the "power user". Although people have been doing distribution reviews long before he started his channel, his reviews were some of the most popular and helped grow his channel to the size it is today.
 
@@ -82,7 +82,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier D
 
-### Tech Hut (237,000 subscribers)
+### [Tech Hut](https://www.youtube.com/@TechHut) (237,000 subscribers)
 
 > A beginner-friendly Linux channel more focused on homelabbing and servers these days. If you are into starting a homelab, there are more focused channels out there, but if you want quick, surface level knowledge, Tech Hut will fit the bill.
 
@@ -94,7 +94,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 - Limited depth as he covers a wide range of topics.
 
-### Luke Smith (218,000 subscribers)
+### [Luke Smith](https://www.youtube.com/@LukeSmithxyz) (218,000 subscribers)
 
 > Despite being inactive on YouTube for almost 2 years, he remains one of the most well-known and influential Linux YouTubers. He is most famous for his window manager and customization videos, but also his philosophical commentary and lifestyle vlogs. Many have copied his presentation style over the years.
 
@@ -107,7 +107,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 - Uses meme thumbnails to attract young viewers.
 - Cryptobro.
 
-### Brodie Robertson (99,000 subscribers)
+### [Brodie Robertson](https://www.youtube.com/@BrodieRobertson) (99,000 subscribers)
 
 > Started out as a Distrotube and Luke Smith clone, doing the usual window manager and command-line tool related videos. Since then, he has shifted to something more akin to The Linux Experiment, but focuses on the more technical side of Linux.
 
@@ -124,7 +124,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier F
 
-### Craig Titus Tech (680,000 subscribers)
+### [Craig Titus Tech](https://www.youtube.com/@ChrisTitusTech) (680,000 subscribers)
 
 > Started out as a Windows / virtualization channel, but he soon realized no one is interested in the former, and that there are better channels out there in regards to the latter. Seeing the popularity of Linux channels, he quickly re-branded himself as a Linux-focused channel. When not recording, he is still a full-time Windows user.
 
@@ -136,7 +136,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 - His criticisms on certain distributions and desktop environments are nonsensical.
 - Makes awful clickbait thumbnails in the vein of Linus Tech Tips.
 
-### The Linux Cast (63,000 subscribers)
+### [The Linux Cast](https://www.youtube.com/@TheLinuxCast) (63,000 subscribers)
 
 > A run-of-the-mill Linux YouTuber who took off due to his simplistic tutorials and learning as you go video style. Unfortunately he adds nothing to the space, with a lot of repetitive content. Furthermore, his personality has become more negative over time.
 
