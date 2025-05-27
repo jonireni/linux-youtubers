@@ -8,7 +8,7 @@ Below is a list I compiled of the most popular Linux YouTubers with at least 50,
 
 ## Tier A
 
-### [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) TV (890,000 subscribers)
+### [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) (890,000 subscribers)
 
 > The best Linux educational channel on YouTube and no one else comes close.
 
